@@ -1,0 +1,98 @@
+[
+  {
+    "comet_SN_PKU_local": 6,
+    "Designation_and_name": "P/1999 R1 (SOHO)",
+    "closest_jdday": 2458729.5,
+    "closest_date": [
+      2019,
+      9,
+      3
+    ],
+    "closest_distance": 0.02052421211016201,
+    "comet_position": [
+      -0.1840754739902057,
+      0.041371269583806256,
+      0.003610253853519275
+    ],
+    "comet_sun_distance_at_the_day": 0.18870187069709118,
+    "PSP_position": [
+      -0.1689205596531456,
+      0.02905047579194357,
+      0.00991659150049699
+    ],
+    "PSP_sun_distance_at_the_day": 0.17168699544303856,
+    "comet_closer_than_PSP": false
+  },
+  {
+    "comet_SN_PKU_local": 79,
+    "Designation_and_name": "P/2007 T2 (Kowalski)",
+    "closest_jdday": 2460249.5,
+    "closest_date": [
+      2023,
+      11,
+      1
+    ],
+    "closest_distance": 0.0543089673464144,
+    "comet_position": [
+      0.5839049619189431,
+      -0.43336739082813885,
+      -0.08014377436349253
+    ],
+    "comet_sun_distance_at_the_day": 0.7315567814981813,
+    "PSP_position": [
+      0.5521946035898228,
+      -0.4462911952283986,
+      -0.03799057295842109
+    ],
+    "PSP_sun_distance_at_the_day": 0.7110119512397969,
+    "comet_closer_than_PSP": false
+  },
+  {
+    "comet_SN_PKU_local": 771,
+    "Designation_and_name": "249P/LINEAR",
+    "closest_jdday": 2459025.5,
+    "closest_date": [
+      2020,
+      6,
+      25
+    ],
+    "closest_distance": 0.08126030221981792,
+    "comet_position": [
+      0.16730900737999083,
+      -0.473397483988407,
+      0.057002251149272695
+    ],
+    "comet_sun_distance_at_the_day": 0.5053184524961627,
+    "PSP_position": [
+      0.1986504825990195,
+      -0.4706223128998314,
+      -0.01791935503599467
+    ],
+    "PSP_sun_distance_at_the_day": 0.511144283858204,
+    "comet_closer_than_PSP": true
+  },
+  {
+    "comet_SN_PKU_local": 845,
+    "Designation_and_name": "322P/SOHO",
+    "closest_jdday": 2458729.5,
+    "closest_date": [
+      2019,
+      9,
+      3
+    ],
+    "closest_distance": 0.02063040544449583,
+    "comet_position": [
+      -0.1840241792716837,
+      0.041565172951093035,
+      0.0035231058910997377
+    ],
+    "comet_sun_distance_at_the_day": 0.18869280440491357,
+    "PSP_position": [
+      -0.1689205596531456,
+      0.02905047579194357,
+      0.00991659150049699
+    ],
+    "PSP_sun_distance_at_the_day": 0.17168699544303856,
+    "comet_closer_than_PSP": false
+  }
+]
